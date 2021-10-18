@@ -3,7 +3,7 @@ A microservice-based sentimental analysis app using Google Kubernetes Engine.
 
 ## Screenshot of Application and GKE
 
-![SentimentAnalysis](Sentiment-Analysis/AppDemo.png)
+![SentimentAnalysis](AppDemo.png)
 
 ## Docker Hub Images
 
@@ -43,4 +43,4 @@ https://hub.docker.com/r/amw8711/sentiment-analysis-webapp
  
 ## Video Demo and Code Walkthrough
 
-![SentimentAnalysis](Sentiment-Analysis/CodeAndDemo.mkv)
+![SentimentAnalysis](CodeAndDemo.mkv)
